@@ -1,0 +1,5 @@
+{
+  "name": "Jogo de Balanceamento de Equações Químicas",
+  "description": "Um jogo interativo projetado para ensinar estudantes a balancear equações químicas de uma forma divertida e envolvente. Os usuários podem selecionar níveis de dificuldade e receber feedback instantâneo sobre suas respostas.",
+  "requestFramePermissions": []
+}
